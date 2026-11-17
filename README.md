@@ -5,7 +5,7 @@
   <title>Meu primeiro site</title>
 </head>
 <body>
-  <h1>Olá, eu sou [seu nome]</h1>
-  <p>Estudo Design Gráfico e este é meu primeiro site no GitHub.</p>
+  <h1>Olá, eu sou a Eduarda </h1>
+  <p>Tenho 17 anos, estudo em turno integral, faço curso de Design Gráfico e este é meu primeiro site no GitHub.</p>
 </body>
 </html>
